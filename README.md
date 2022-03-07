@@ -59,20 +59,20 @@ Our model was only able to achieve 73% accuracy vs our target of 75%.
 ![Screen Shot 2022-03-06 at 9 11 21 PM](https://user-images.githubusercontent.com/91925639/156956047-e64d3485-c658-405b-8758-af52c6bda52f.png)
 
 * What steps did you take to try and increase model performance?
+
+  * Optimization attempt 1: Increased the number of hidden nodes for each layer
+  * 
+    ![Screen Shot 2022-03-06 at 9 18 17 PM](https://user-images.githubusercontent.com/91925639/156956630-f011e94b-7073-4b16-a927-d8e9b2e14f8d.png)
     
-  * Optimization attempt 1: Increase the number of layers
+  * Optimization attempt 2: Increase the number of layers
   
-![Screen Shot 2022-03-06 at 9 14 06 PM](https://user-images.githubusercontent.com/91925639/156956278-d2aa8431-19f4-40a9-a0c0-0bf9cb9a1fe9.png)
+   ![Screen Shot 2022-03-06 at 9 14 06 PM](https://user-images.githubusercontent.com/91925639/156956278-d2aa8431-19f4-40a9-a0c0-0bf9cb9a1fe9.png)
 
   * Optimization attempt 3: Increase the number of epochs
   
-![Screen Shot 2022-03-06 at 9 15 15 PM](https://user-images.githubusercontent.com/91925639/156956370-14996e14-9947-4858-9a79-c3ffd9d51919.png)
-
-
-
+   ![Screen Shot 2022-03-06 at 9 15 15 PM](https://user-images.githubusercontent.com/91925639/156956370-14996e14-9947-4858-9a79-c3ffd9d51919.png)
 
 ## Summary: 
 
-Based on our analysis 
-
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+Based on our analysis we can conclude that our neural networks model was not able to achieve our accuracy target of 75% (our results yielded in a 73% accuracy score), therefore I would not recommend this model to predict whether applicants will be successful if funded by Alphabet Soup. 
+I would recommend using a different model possibly a supervised machine learning model such as Random Forest Classifier which could help solve the classification problem we experienced.
