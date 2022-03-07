@@ -65,8 +65,8 @@ Our model was only able to achieve 73% accuracy vs our target of 75%.
     ![Screen Shot 2022-03-06 at 9 18 17 PM](https://user-images.githubusercontent.com/91925639/156956630-f011e94b-7073-4b16-a927-d8e9b2e14f8d.png)
     
   * Optimization attempt 2: Increase the number of layers
-  
-   ![Screen Shot 2022-03-06 at 9 14 06 PM](https://user-images.githubusercontent.com/91925639/156956278-d2aa8431-19f4-40a9-a0c0-0bf9cb9a1fe9.png)
+  * 
+   ![Screen Shot 2022-03-06 at 9 27 23 PM](https://user-images.githubusercontent.com/91925639/156957406-6c803f11-0e75-4cf6-afa0-b5afe4b9e472.png)
 
   * Optimization attempt 3: Increase the number of epochs
   
