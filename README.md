@@ -61,16 +61,16 @@ Our model was only able to achieve 73% accuracy vs our target of 75%.
 * What steps did you take to try and increase model performance?
 
   * Optimization attempt 1: Increased the number of hidden nodes for each layer
-  * 
+  
     ![Screen Shot 2022-03-06 at 9 18 17 PM](https://user-images.githubusercontent.com/91925639/156956630-f011e94b-7073-4b16-a927-d8e9b2e14f8d.png)
     
   * Optimization attempt 2: Increase the number of layers
-  * 
-   ![Screen Shot 2022-03-06 at 9 27 23 PM](https://user-images.githubusercontent.com/91925639/156957406-6c803f11-0e75-4cf6-afa0-b5afe4b9e472.png)
+
+    ![Screen Shot 2022-03-06 at 9 27 23 PM](https://user-images.githubusercontent.com/91925639/156957406-6c803f11-0e75-4cf6-afa0-b5afe4b9e472.png)
 
   * Optimization attempt 3: Increase the number of epochs
   
-   ![Screen Shot 2022-03-06 at 9 15 15 PM](https://user-images.githubusercontent.com/91925639/156956370-14996e14-9947-4858-9a79-c3ffd9d51919.png)
+    ![Screen Shot 2022-03-06 at 9 15 15 PM](https://user-images.githubusercontent.com/91925639/156956370-14996e14-9947-4858-9a79-c3ffd9d51919.png)
 
 ## Summary: 
 
